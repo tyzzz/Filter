@@ -60,6 +60,10 @@ DOMAIN,cf.odysseyplus.site
 DOMAIN,agahk.odysseyplus.site
 DOMAIN,agasg.odysseyplus.site
 DOMAIN,ru.odysseyplus.site
+DOMAIN,us.odysseyplus.site
+DOMAIN,kr.odysseyplus.site
+DOMAIN,jp.odysseyplus.site
+DOMAIN,jp2.odysseyplus.site
 
 # > 流媒体Exflux服务器
 DOMAIN,line.emby.men
@@ -126,5 +130,36 @@ DOMAIN,cc.ccemby.tk
 
 # > 流媒体Nebula服务器
 DOMAIN,direct.nebula-emby.com
+
+# > 流媒体Misty服务器
+DOMAIN,misty.ltd
+DOMAIN,max.misty.ltd
+DOMAIN,cdn.misty.ltd
+DOMAIN,dns.misty.ltd
+DOMAIN,jp.misty.ltd
+
+# > 流媒体Peach服务器
+DOMAIN,embymv.tk
+DOMAIN,kr.embymv.tk
+DOMAIN,jp.embymv.tk
+
+# > 流媒体Orange服务器
+DOMAIN,embytv.cf
+DOMAIN,gia.freeview.cc
+DOMAIN,cf.embytv.cf
+
+# > 流媒体Lsemby服务器
+DOMAIN,11.loseremby.org
+DOMAIN,cf.emby.ml
+
+# > 流媒体Weiweifu服务器
+DOMAIN,gy.embyvip.org
+
+# > 流媒体Lsemby服务器
+DOMAIN,emby.222921.xyz
+DOMAIN,embyen.222921.xyz
+DOMAIN,embyru.222921.xyz
+DOMAIN,cf.222921.xyz
+
 
 
