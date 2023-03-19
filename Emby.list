@@ -160,3 +160,6 @@ DOMAIN,emby.222921.xyz
 DOMAIN,embyen.222921.xyz
 DOMAIN,embyru.222921.xyz
 DOMAIN,cf.222921.xyz
+
+# > 流媒体FLAREIX服务器
+DOMAIN-SUFFIX,emby.vip
