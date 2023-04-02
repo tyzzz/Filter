@@ -116,7 +116,7 @@ DOMAIN,emby.aiyowei.ml
 DOMAIN-SUFFIX,poloemby.xyz
 DOMAIN-SUFFIX,pololine.ml
 DOMAIN-SUFFIX,emby.pololine.ml
-DOMAIN-SUFFIX,/cf.pololine.ml
+DOMAIN-SUFFIX,cf.pololine.ml
 DOMAIN-SUFFIX,10000.pololine.ml
 
 # > 流媒体MisakaF服务器
