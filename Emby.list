@@ -89,7 +89,7 @@ DOMAIN,cf.jmsooo.com
 DOMAIN,hk.jmsooo.com
 DOMAIN,sg.jmsooo.com
 
-# > 流媒体卷毛鼠服务器
+# > 流媒体终点服务器
 DOMAIN,emby.wtf
 DOMAIN,pub1back.emby.wtf
 DOMAIN,pub2back.emby.wtf
@@ -115,15 +115,22 @@ DOMAIN,emby.aiyowei.ml
 # > 流媒体polo服务器
 DOMAIN-SUFFIX,poloemby.xyz
 DOMAIN-SUFFIX,pololine.ml
+DOMAIN-SUFFIX,emby.pololine.ml
+DOMAIN-SUFFIX,/cf.pololine.ml
+DOMAIN-SUFFIX,10000.pololine.ml
 
 # > 流媒体MisakaF服务器
 DOMAIN-SUFFIX,misakaf.org
+DOMAIN-SUFFIX,cdn.misakaf.org
+DOMAIN-SUFFIX,cf.misakaf.org
 
 # > 流媒体GfwEmby服务器
 DOMAIN-SUFFIX,gfwemby.org
 
-# > 流媒体垃圾影音服务器
+# > 流媒体Lsemby服务器
 DOMAIN-SUFFIX,loseremby.org
+DOMAIN-SUFFIX,11.loseremby.org
+DOMAIN-SUFFIX,cf.emby.ml
 
 # > 流媒体Cc服务器
 DOMAIN,cc.ccemby.tk
@@ -147,10 +154,11 @@ DOMAIN,jp.embymv.tk
 DOMAIN,embytv.cf
 DOMAIN,gia.freeview.cc
 DOMAIN,cf.embytv.cf
+DOMAIN,cdn.embytv.cf
 
-# > 流媒体Lsemby服务器
-DOMAIN,11.loseremby.org
-DOMAIN,cf.emby.ml
+# > 流媒体BlueSea服务器
+DOMAIN,bsem.otoou.com
+DOMAIN,bsyid.otoou.com
 
 # > 流媒体Weiweifu服务器
 DOMAIN,gy.embyvip.org
@@ -159,7 +167,83 @@ DOMAIN,gy.embyvip.org
 DOMAIN,emby.222921.xyz
 DOMAIN,embyen.222921.xyz
 DOMAIN,embyru.222921.xyz
+DOMAIN,bili.bili.rip
+DOMAIN,embyjp.bili.rip
+DOMAIN,embyus.bili.rip
 DOMAIN,cf.222921.xyz
 
 # > 流媒体FLAREIX服务器
 DOMAIN-SUFFIX,emby.vip
+
+# > 流媒体BestEmby服务器
+DOMAIN,cn2-emby.gdsuite.top
+DOMAIN,emby.gdsuite.top
+
+# > 流媒体DVEmby服务器
+DOMAIN,emby.lzlz.cc
+
+# > 流媒体鸡场服务器
+DOMAIN,v.20120714.xyz
+DOMAIN,xl.studyfun.live
+
+# > 流媒体纸片人服务器
+DOMAIN,embyplus.org  
+DOMAIN,gd.9521732.xyz
+
+# > 流媒体莫高雷服务器
+DOMAIN,one.mulgore.net 
+DOMAIN,two.mulgore.net
+
+# > 流媒体不可描述服务器
+DOMAIN,emby.agon.cf
+
+# > 流媒体拨浪鼓服务器
+DOMAIN,emby.speedx.one
+
+# > 流媒体二刺螈服务器
+DOMAIN,media.nijigem.by
+
+# > 流媒体Mildnes服务器
+DOMAIN,v.usxx.xyz 
+DOMAIN,v.091321.xyz
+DOMAIN,v2.usxx.xyz
+DOMAIN,v.usxx.xyz
+
+# > 流媒体Paul服务器
+DOMAIN,emby.imetyou.top
+DOMAIN,kr.imetyou.top
+DOMAIN,cf.imetyou.top
+DOMAIN,cdn.imetyou.top
+
+# > 流媒体infinityfly服务器
+DOMAIN,infinityfly.top
+
+# > 流媒体acemby服务器
+DOMAIN,play.acemby.org
+DOMAIN,cflix.acemby.org
+
+# > 流媒体StudyFun服务器
+DOMAIN,cf.studyfun.live
+DOMAIN,cdn.studyfun.live
+DOMAIN,cdn1.studyfun.live
+
+# > 流媒体Paul服务器
+DOMAIN,de.mjjemby.org
+DOMAIN,cf.mjjemby.org
+DOMAIN,sg01.mjjemby.org
+DOMAIN,jp01.mjjemby.org
+DOMAIN,kr02.mjjemby.org
+DOMAIN,jp02.mjjemby.org
+
+# > 流媒体Nebula服务器
+DOMAIN,direct.nebula-emby.com
+
+# > 流媒体MoreEmby服务器
+DOMAIN,moreemby.com
+
+# > 流媒体acemby服务器
+DOMAIN,film.goodisp.org
+DOMAIN,film.chinaisp.org
+
+# > 流媒体动画学习服务器
+DOMAIN,lf.dmesg.gq
